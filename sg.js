@@ -16,14 +16,4 @@ createdElement1.innerText="this is a created bold";
 tn[0].replaceChild(createdElement1,createdElement);
 
 */
-// window.location="next.html";
-function Redirect() {
-    //window.location = "https://www.tutorialspoint.com";
-    window.location = "next.html";
 
-}
-function display() {
-    //window.location = "https://www.tutorialspoint.com";
-    window.location = "new.html";
-
-}
